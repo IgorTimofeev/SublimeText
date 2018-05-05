@@ -3,13 +3,18 @@
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/ECS.tmTheme",
+	"color_scheme": "Packages/User/cyka.tmTheme",
 	"create_window_at_startup": false,
 	"drag_text": false,
 	"enable_hexadecimal_encoding": false,
-	"font_size": 12,
+	"font_size": 15,
 	"highlight_line": true,
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	"open_files_in_new_window": false
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"open_files_in_new_window": false,
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme"
 }

@@ -13,16 +13,52 @@
 			<dict>
 				<key>background</key>
 				<string>#282c34</string>
+
 				<key>caret</key>
 				<string>#61afe9</string>
+
 				<key>foreground</key>
 				<string>#cccccc</string>
+
 				<key>invisibles</key>
 				<string>#A8A8A8</string>
+
 				<key>lineHighlight</key>
-				<string>#444c5c</string>
+				<string>#3B4250</string>
+
 				<key>selection</key>
-				<string>#444c5c</string>
+				<string>#545E72</string>
+
+				<key>selectionBorder</key>
+				<string>#e08bf9</string>
+
+				<!-- <key>inactiveSelection</key>
+				<string>#FFFF00</string> -->
+				
+				<!-- <key>selectionForeground</key>
+				<string>#FFFFFF</string> -->
+				
+				<key>gutter</key>
+				<string>#2D323A</string>
+
+				<key>gutterForeground</key>
+				<string>#8C8C8C</string>
+
+				<key>highlight</key>
+				<string>#e08bf9</string>
+
+				<key>highlightForeground</key>
+				<string>#e08bf9</string>
+
+				<key>bracketsForeground</key>
+				<string>#FF00FF</string>
+				<key>bracketsOptions</key>
+				<string>foreground</string>
+
+				<key>bracketContentsForeground</key>
+				<string>#FF00FF</string>
+				<key>bracketContentsOptions</key>
+				<string>foreground</string>
 			</dict>
 		</dict>
 		<dict>
